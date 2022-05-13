@@ -1,0 +1,16 @@
+if game.PlaceId == 9107946567 then
+--WarriorsArmySimulator
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Warriors%20Army%20Simulator'))()
+elseif game.PlaceId == 6769764667 then
+  --FactorySimulator
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Factory%20Simulator'))()
+elseif game.PlaceId == 8750997647 then
+--TappingLegendsX
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/TappingLegendsX'))()
+elseif game.PlaceId == 5320510816 then
+--FarmLifeTycoon
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Farm%20Life%20Tycoon'))()
+  elseif game.PlaceId == 28382335 then
+  --Survival Zombie Tycoon
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Survival%20Zombie%20Tycoon'))()
+end
