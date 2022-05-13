@@ -1,0 +1,9 @@
+if game.PlaceId == 9107946567 then
+  WarriorsArmySimulator()
+elseif game.PlaceId == 6769764667 then
+  FactorySimulator()
+elseif game.PlaceId == 8750997647 then
+  TappingLegendsX()
+elseif game.PlaceId == 5320510816 then
+  FarmLifeTycoon()
+end
