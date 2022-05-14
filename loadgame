@@ -13,4 +13,7 @@ elseif game.PlaceId == 5320510816 then
   elseif game.PlaceId == 28382335 then
   --Survival Zombie Tycoon
   loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Survival%20Zombie%20Tycoon'))()
+  elseif game.PlaceId == 6342469457 then
+  --Heavens Arena
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Heavens%20Arena'))()
 end
