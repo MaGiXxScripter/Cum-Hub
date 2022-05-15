@@ -16,4 +16,7 @@ elseif game.PlaceId == 5320510816 then
   elseif game.PlaceId == 6342469457 then
   --Heavens Arena
   loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Heavens%20Arena'))()
+  elseif game.PlaceId == 537413528 then
+  --Build A Boat For Treasure
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Build-A-Boat-For-Treasure'))()
 end
