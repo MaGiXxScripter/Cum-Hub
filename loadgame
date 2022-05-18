@@ -19,4 +19,7 @@ elseif game.PlaceId == 5320510816 then
   elseif game.PlaceId == 537413528 then
   --Build A Boat For Treasure
   loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Build-A-Boat-For-Treasure'))()
+  elseif game.PlaceId == 9300407930 then
+  --Bot Clash!
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Bot%20Clash'))()
 end
