@@ -22,4 +22,7 @@ elseif game.PlaceId == 5320510816 then
   elseif game.PlaceId == 9300407930 then
   --Bot Clash!
   loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Bot%20Clash'))()
+  elseif game.PlaceId == 6299805723 then
+  --Anime Fighters Simulator
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/MaGiXxScripter/Cum-Hub/main/games/Anime%20Fighters%20Simulator'))()
 end
