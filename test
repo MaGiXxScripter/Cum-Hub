@@ -238,7 +238,7 @@ function finity.new(isdark, gprojectName, thinProject)
 		Name = "Container",
 		AnchorPoint = Vector2.new(0.5, 0.5),
 		BackgroundTransparency = 0,
-		BackgroundColor3 = "rbxassetid://5193815097",
+		Image = "rbxassetid://5193815097",
 		BorderSizePixel = 0,
 		Position = UDim2.new(0.5, 0, 0.5, 0),
 		Size = UDim2.new(0, 700, 0, 350),
